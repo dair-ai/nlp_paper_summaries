@@ -54,3 +54,4 @@ nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai
 ## TODO List
 - [ ] Categorize papers; I am aiming to categorize paper summaries by using the categories in the [NLP Progress](http://nlpprogress.com/). 
 - [ ] Include more info about papers, excerpt, authors, year, etc.
+- [ ] Move all paper summaries to GitHub so others can also edit, contribute, and review
