@@ -12,11 +12,7 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 
 ---
 
-## Language Modeling
 
-Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
-
-XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
 
 ## Cognitive Modeling and Psycholinguistics
 
@@ -32,6 +28,10 @@ Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Sum
 
 Troubling Trends in Machine Learning Scholarship -- [Summary](https://medium.com/dair-ai/an-overview-of-troubling-trends-in-machine-learning-scholarship-582df3caa518), [Paper](https://arxiv.org/abs/1807.03341)
 
+## Generation
+
+Encode, Tag, Realize: High-Precision Text Editing — [Summary](https://ai.googleblog.com/2020/01/encode-tag-and-realize-controllable-and.html), [Paper](https://research.google/pubs/pub48542/)
+
 ## Interpretability and Analysis of Models for NLP
 
 What Does BERT Look At? An Analysis of BERT's Attention -- [Summary](https://medium.com/dair-ai/aspects-of-language-captured-by-bert-32bc3c54016f), [Paper](https://arxiv.org/abs/1906.04341v1)
@@ -42,13 +42,19 @@ Revealing the Dark Secrets of BERT — [Summary](https://text-machine-lab.github
 
 Probing Neural Network Comprehension of Natural Language Arguments — [Summary](https://thegradient.pub/nlps-clever-hans-moment-has-arrived/), [Paper](https://www.aclweb.org/anthology/P19-1459/)
 
-## Resources and Evaluation
+## Language Modeling
 
-nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
+
+XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
 
 ## Multi-Task Learning
 
 A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks -- [Summary](https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601), [Paper](https://arxiv.org/abs/1811.06031)
+
+## Resources and Evaluation
+
+nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
 
 ## Sentiment Analysis, Stylistic Analysis, and Argument Mining
 
