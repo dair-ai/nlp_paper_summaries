@@ -52,6 +52,8 @@ Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summ
 
 XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
 
+Fine-Tuning GPT-2 from Human Preferences — [Summary](https://openai.com/blog/fine-tuning-gpt-2/), [Paper](https://arxiv.org/abs/1909.08593)
+
 ## Multi-Task Learning
 
 A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks -- [Summary](https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601), [Paper](https://arxiv.org/abs/1811.06031)
