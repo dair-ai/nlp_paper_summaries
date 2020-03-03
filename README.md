@@ -88,6 +88,10 @@ A Light Introduction to Transfer Learning for NLP -- [Summary](https://medium.co
 
 Google Research: Looking Back at 2019, and Forward to 2020 and Beyond — [Summary](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 
+Attention? Attention! — [Summary](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
+Generalized Language Models — [Summary](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+
 ## Miscellaneous (To be categorized)
 
 Parameter-Efficient Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62), [Paper](https://arxiv.org/abs/1902.00751)
