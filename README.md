@@ -68,6 +68,8 @@ NLP Year in Review — 2019 -- [Summary](https://medium.com/dair-ai/nlp-year-in-
 
 A Light Introduction to Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8)
 
+10 ML & NLP Research Highlights of 2019 — [Summary](https://ruder.io/research-highlights-2019/)
+
 ## Miscellaneous (To be categorized)
 
 Parameter-Efficient Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62), [Paper](https://arxiv.org/abs/1902.00751)
