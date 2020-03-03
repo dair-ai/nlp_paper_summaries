@@ -53,3 +53,4 @@ nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai
 
 ## TODO List
 - [ ] Categorize papers
+- [ ] Include more info about papers, excerpt, authors, year, etc.
