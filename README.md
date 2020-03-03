@@ -72,6 +72,8 @@ A Light Introduction to Transfer Learning for NLP -- [Summary](https://medium.co
 
 10 ML & NLP Research Highlights of 2019 — [Summary](https://ruder.io/research-highlights-2019/)
 
+Google Research: Looking Back at 2019, and Forward to 2020 and Beyond — [Summary](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
+
 ## Miscellaneous (To be categorized)
 
 Parameter-Efficient Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62), [Paper](https://arxiv.org/abs/1902.00751)
