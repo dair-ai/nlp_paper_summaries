@@ -38,6 +38,8 @@ What Does BERT Look At? An Analysis of BERT's Attention -- [Summary](https://med
 
 Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds using Paraphrases in a Neural Model -- [Summary](https://medium.com/dair-ai/olive-oil-is-made-of-olives-baby-oil-is-made-for-babies-paper-summary-a6f9b5544761), [Paper](https://arxiv.org/abs/1803.08073)
 
+Revealing the Dark Secrets of BERT — [Summary](https://text-machine-lab.github.io/blog/2020/bert-secrets/), [Paper](https://www.aclweb.org/anthology/D19-1445.pdf)
+
 ## Resources and Evaluation
 
 nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
