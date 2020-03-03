@@ -49,7 +49,7 @@ A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks -
 nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
 
 
-
+---
 
 ## TODO List
 - [ ] Categorize papers
