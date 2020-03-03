@@ -22,6 +22,10 @@ Detecting Linguistic Characteristics of Alzheimer’s Dementia by Interpreting N
 
 Multimodal Classification for Analysing Social Media -- [Summary](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8), [Paper](https://arxiv.org/abs/1708.02099)
 
+## Dialogue and Interactive Systems
+
+Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), [Paper](https://arxiv.org/abs/2001.09977)
+
 ## Ethics and NLP
 
 Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Summary](https://medium.com/dair-ai/examining-gender-and-race-bias-in-sentiment-analysis-systems-b04b269a653), [Paper](https://www.aclweb.org/anthology/S18-2005/)
