@@ -94,6 +94,6 @@ Parameter-Efficient Transfer Learning for NLP -- [Summary](https://medium.com/da
 
 ## TODO List
 - [ ] Categorize papers; I am aiming to categorize paper summaries by using the categories in the [NLP Progress](http://nlpprogress.com/) or prominent tracks used in NLP conferences; if you have any suggestions/questions please open an issue or send me a message directly on Twitter or via email.
-- [ ] Include more info about papers, excerpt, authors, year, etc.
+- [ ] Include more info about each paper summaries, excerpt, authors, source, year, etc.
 - [ ] More paper summaries are coming!
 - [ ] Move all paper summaries to GitHub so others can also edit, contribute, and review
