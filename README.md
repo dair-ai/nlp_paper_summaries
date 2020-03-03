@@ -40,6 +40,8 @@ Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Comp
 
 Revealing the Dark Secrets of BERT — [Summary](https://text-machine-lab.github.io/blog/2020/bert-secrets/), [Paper](https://www.aclweb.org/anthology/D19-1445.pdf)
 
+Probing Neural Network Comprehension of Natural Language Arguments — [Summary](https://thegradient.pub/nlps-clever-hans-moment-has-arrived/), [Paper](https://www.aclweb.org/anthology/P19-1459/)
+
 ## Resources and Evaluation
 
 nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
