@@ -6,6 +6,8 @@ If you have blogged about an NLP paper or technique or find an interesting read 
 
 If you would like to contribute by blogging about an NLP paper/technique, you can check out our suggestion/guidance at this [issue](https://github.com/dair-ai/dair-ai.github.io/issues/23). 
 
+And if you need any ideas on how else to contribute to this repo, take a look in the [issues](https://github.com/dair-ai/nlp_paper_summaries/issues) section.
+
 For now, I have adopted a few tracks from [ACL](https://acl2020.org/calls/papers/) for the grouping but this can change based on the granularity of grouping that is needed. Open to ideas here. 
 
 If you are facing any issues submitting your PR, just send me an email at ellfae@gmail.com or [DM me on Twitter](https://twitter.com/omarsar0).
