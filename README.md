@@ -50,6 +50,8 @@ Probing Neural Network Comprehension of Natural Language Arguments — [Summary]
 
 ## Language Modeling
 
+Reformer: The Efficient Transformer — [Summary](https://www.pragmatic.ml/reformer-deep-dive/), [Paper](https://arxiv.org/abs/2001.04451)
+
 Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
 
 XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
