@@ -26,7 +26,7 @@ Multimodal Classification for Analysing Social Media -- [Summary](https://medium
 
 ## Dialogue and Interactive Systems
 
-Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), [Paper](https://arxiv.org/abs/2001.09977)
+Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), [Paper](https://arxiv.org/abs/2001.09977), [Video](https://www.youtube.com/watch?v=STrrlLG15OY&t=225s)
 
 ## Ethics and NLP
 
@@ -50,7 +50,7 @@ Probing Neural Network Comprehension of Natural Language Arguments — [Summary]
 
 ## Language Modeling
 
-Reformer: The Efficient Transformer — [Summary](https://www.pragmatic.ml/reformer-deep-dive/), [Paper](https://arxiv.org/abs/2001.04451)
+Reformer: The Efficient Transformer — [Summary](https://www.pragmatic.ml/reformer-deep-dive/), [Paper](https://arxiv.org/abs/2001.04451), [Video](https://www.youtube.com/watch?v=Kf3x3lqf9cQ&t=445s)
 
 Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
 
