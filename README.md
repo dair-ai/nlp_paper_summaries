@@ -18,25 +18,37 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 
 ## Cognitive Modeling and Psycholinguistics
 
+#### 2018
+
 Detecting Linguistic Characteristics of Alzheimer’s Dementia by Interpreting Neural Models -- [Summary](https://medium.com/dair-ai/using-deep-learning-to-detect-linguistic-cues-of-alzheimers-patients-a606693e54f9), [Paper](https://www.aclweb.org/anthology/N18-2110/)
 
 ## Computational Social Science and Social Media
+
+#### 2017
 
 Multimodal Classification for Analysing Social Media -- [Summary](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8), [Paper](https://arxiv.org/abs/1708.02099)
 
 ## Dialogue and Interactive Systems
 
+#### 2020
+
 Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), [Paper](https://arxiv.org/abs/2001.09977)
+
+#### 2019
 
 What makes a good conversation? How controllable attributes affect human judgements - [Summary](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html), [Paper](https://www.aclweb.org/anthology/N19-1170/)
 
 ## Ethics and NLP
 
-Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Summary](https://medium.com/dair-ai/examining-gender-and-race-bias-in-sentiment-analysis-systems-b04b269a653), [Paper](https://www.aclweb.org/anthology/S18-2005/)
+#### 2019
+
+Defending Against Neural Fake News - [Summary](https://medium.com/ai2-blog/counteracting-neural-disinformation-with-grover-6cf6690d463b), [Paper](https://arxiv.org/abs/1905.12616)
+
+#### 2018
 
 Troubling Trends in Machine Learning Scholarship -- [Summary](https://medium.com/dair-ai/an-overview-of-troubling-trends-in-machine-learning-scholarship-582df3caa518), [Paper](https://arxiv.org/abs/1807.03341)
 
-Defending Against Neural Fake News - [Summary](https://medium.com/ai2-blog/counteracting-neural-disinformation-with-grover-6cf6690d463b), [Paper](https://arxiv.org/abs/1905.12616)
+Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Summary](https://medium.com/dair-ai/examining-gender-and-race-bias-in-sentiment-analysis-systems-b04b269a653), [Paper](https://www.aclweb.org/anthology/S18-2005/)
 
 ## Generation
 
