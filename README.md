@@ -28,11 +28,15 @@ Multimodal Classification for Analysing Social Media -- [Summary](https://medium
 
 Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), [Paper](https://arxiv.org/abs/2001.09977)
 
+What makes a good conversation? How controllable attributes affect human judgements - [Summary](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html), [Paper](https://www.aclweb.org/anthology/N19-1170/)
+
 ## Ethics and NLP
 
 Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Summary](https://medium.com/dair-ai/examining-gender-and-race-bias-in-sentiment-analysis-systems-b04b269a653), [Paper](https://www.aclweb.org/anthology/S18-2005/)
 
 Troubling Trends in Machine Learning Scholarship -- [Summary](https://medium.com/dair-ai/an-overview-of-troubling-trends-in-machine-learning-scholarship-582df3caa518), [Paper](https://arxiv.org/abs/1807.03341)
+
+Defending Against Neural Fake News - [Summary](https://medium.com/ai2-blog/counteracting-neural-disinformation-with-grover-6cf6690d463b), [Paper](https://arxiv.org/abs/1905.12616)
 
 ## Generation
 
@@ -58,7 +62,9 @@ XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Sum
 
 Fine-Tuning GPT-2 from Human Preferences — [Summary](https://openai.com/blog/fine-tuning-gpt-2/), [Paper](https://arxiv.org/abs/1909.08593)
 
-ALBERT: A Lite BERT for Self-Supervised Learning Of Language Representations — [Summary](https://amitness.com/2020/02/albert-visual-summary/), [Paper](https://arxiv.org/abs/1909.11942) 
+ALBERT: A Lite BERT for Self-Supervised Learning Of Language Representations — [Summary](https://amitness.com/2020/02/albert-visual-summary/), [Paper](https://arxiv.org/abs/1909.11942)
+
+Plug and Play Language Models: A Simple Approach to Controlled Text Generation - [Summary](https://eng.uber.com/pplm/), [Paper](https://arxiv.org/abs/1912.02164)
 
 ## Multi-Task Learning
 
@@ -79,6 +85,10 @@ A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks -- 
 Exploring Emoji Usage and Prediction Through a Temporal Variation Lens -- [Summary](https://medium.com/dair-ai/deep-learning-and-time-to-predict-emojis-4a6256c16475), [Paper](https://arxiv.org/abs/1805.00731)
 
 Context-Dependent Sentiment Analysis in User-Generated Videos -- [Summary](https://medium.com/dair-ai/state-of-the-art-multimodal-sentiment-classification-in-videos-1daa8a481c5a), [Paper](https://www.aclweb.org/anthology/P17-1081/)
+
+## Summarization
+
+Get To The Point: Summarization with Pointer-Generator Networks - [Summary](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html), [Paper](https://arxiv.org/pdf/1704.04368.pdf)
 
 ## Overviews / Surveys / Highlights
 
