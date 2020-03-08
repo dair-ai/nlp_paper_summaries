@@ -14,8 +14,6 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 
 ---
 
-
-
 ## Cognitive Modeling and Psycholinguistics
 
 #### 2018
@@ -52,73 +50,106 @@ Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems -- [Sum
 
 ## Generation
 
+#### 2019
+
 Encode, Tag, Realize: High-Precision Text Editing — [Summary](https://ai.googleblog.com/2020/01/encode-tag-and-realize-controllable-and.html), [Paper](https://research.google/pubs/pub48542/)
 
 ## Interpretability and Analysis of Models for NLP
 
-What Does BERT Look At? An Analysis of BERT's Attention -- [Summary](https://medium.com/dair-ai/aspects-of-language-captured-by-bert-32bc3c54016f), [Paper](https://arxiv.org/abs/1906.04341v1)
-
-Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds using Paraphrases in a Neural Model -- [Summary](https://medium.com/dair-ai/olive-oil-is-made-of-olives-baby-oil-is-made-for-babies-paper-summary-a6f9b5544761), [Paper](https://arxiv.org/abs/1803.08073)
+#### 2019
 
 Revealing the Dark Secrets of BERT — [Summary](https://text-machine-lab.github.io/blog/2020/bert-secrets/), [Paper](https://www.aclweb.org/anthology/D19-1445.pdf)
 
 Probing Neural Network Comprehension of Natural Language Arguments — [Summary](https://thegradient.pub/nlps-clever-hans-moment-has-arrived/), [Paper](https://www.aclweb.org/anthology/P19-1459/)
 
+What Does BERT Look At? An Analysis of BERT's Attention -- [Summary](https://medium.com/dair-ai/aspects-of-language-captured-by-bert-32bc3c54016f), [Paper](https://arxiv.org/abs/1906.04341v1)
+
+#### 2018
+
+Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds using Paraphrases in a Neural Model -- [Summary](https://medium.com/dair-ai/olive-oil-is-made-of-olives-baby-oil-is-made-for-babies-paper-summary-a6f9b5544761), [Paper](https://arxiv.org/abs/1803.08073)
+
+
 ## Language Modeling
+
+#### 2020
 
 Reformer: The Efficient Transformer — [Summary](https://www.pragmatic.ml/reformer-deep-dive/), [Paper](https://arxiv.org/abs/2001.04451)
 
-Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
-
-XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
-
-Fine-Tuning GPT-2 from Human Preferences — [Summary](https://openai.com/blog/fine-tuning-gpt-2/), [Paper](https://arxiv.org/abs/1909.08593)
-
-ALBERT: A Lite BERT for Self-Supervised Learning Of Language Representations — [Summary](https://amitness.com/2020/02/albert-visual-summary/), [Paper](https://arxiv.org/abs/1909.11942)
+#### 2019
 
 Plug and Play Language Models: A Simple Approach to Controlled Text Generation - [Summary](https://eng.uber.com/pplm/), [Paper](https://arxiv.org/abs/1912.02164)
 
+ALBERT: A Lite BERT for Self-Supervised Learning Of Language Representations — [Summary](https://amitness.com/2020/02/albert-visual-summary/), [Paper](https://arxiv.org/abs/1909.11942)
+
+Fine-Tuning GPT-2 from Human Preferences — [Summary](https://openai.com/blog/fine-tuning-gpt-2/), [Paper](https://arxiv.org/abs/1909.08593)
+
+XLNet: Generalized Autoregressive Pretraining for Language Understanding -- [Summary](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b), [Paper](https://arxiv.org/abs/1906.08237)
+
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13), [Paper](https://arxiv.org/abs/1901.02860)
+
 ## Multi-Task Learning
+
+#### 2018
 
 A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks -- [Summary](https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601), [Paper](https://arxiv.org/abs/1811.06031)
 
 ## Resources and Evaluation
 
+#### 2018
+
 nocaps: novel object captioning at scale -- [Summary](https://medium.com/dair-ai/large-scale-image-captioning-a2c0191ffd3c), [Paper](https://arxiv.org/abs/1812.08658)
 
 ## Sentiment Analysis, Stylistic Analysis, and Argument Mining
 
-DialogueRNN: An Attentive RNN for Emotion Detection in Conversations -- [Summary](https://medium.com/dair-ai/dialoguernn-emotion-classification-in-conversation-1e389d035aff), [Paper](https://arxiv.org/abs/1811.00405)
+#### 2019
 
 Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts -- [Summary](https://medium.com/dair-ai/a-deep-learning-approach-to-improve-emotion-cause-extraction-135bd9ea3899), [Paper](https://arxiv.org/abs/1906.01267)
 
-A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks -- [Summary](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80), [Paper](https://arxiv.org/abs/1610.08815)
+#### 2018
+
+DialogueRNN: An Attentive RNN for Emotion Detection in Conversations -- [Summary](https://medium.com/dair-ai/dialoguernn-emotion-classification-in-conversation-1e389d035aff), [Paper](https://arxiv.org/abs/1811.00405)
 
 Exploring Emoji Usage and Prediction Through a Temporal Variation Lens -- [Summary](https://medium.com/dair-ai/deep-learning-and-time-to-predict-emojis-4a6256c16475), [Paper](https://arxiv.org/abs/1805.00731)
 
+#### 2017
+
 Context-Dependent Sentiment Analysis in User-Generated Videos -- [Summary](https://medium.com/dair-ai/state-of-the-art-multimodal-sentiment-classification-in-videos-1daa8a481c5a), [Paper](https://www.aclweb.org/anthology/P17-1081/)
 
+#### 2016
+
+A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks -- [Summary](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80), [Paper](https://arxiv.org/abs/1610.08815)
+
 ## Summarization
+
+#### 2017
 
 Get To The Point: Summarization with Pointer-Generator Networks - [Summary](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html), [Paper](https://arxiv.org/pdf/1704.04368.pdf)
 
 ## Overviews / Surveys / Highlights
 
-Recent Trends in Deep Learning Based Natural Language Processing -- [Summary](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d), [Paper](https://arxiv.org/abs/1708.02709)
+#### 2019
 
-NLP Year in Review — 2019 -- [Summary](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19)
-
-A Light Introduction to Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8)
+Generalized Language Models — [Summary](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
 
 10 ML & NLP Research Highlights of 2019 — [Summary](https://ruder.io/research-highlights-2019/)
 
 Google Research: Looking Back at 2019, and Forward to 2020 and Beyond — [Summary](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 
+NLP Year in Review — 2019 -- [Summary](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19)
+
+#### 2018
+
+A Light Introduction to Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/a-light-introduction-to-transfer-learning-for-nlp-3e2cb56b48c8)
+
 Attention? Attention! — [Summary](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
-Generalized Language Models — [Summary](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+#### 2017
+
+Recent Trends in Deep Learning Based Natural Language Processing -- [Summary](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d), [Paper](https://arxiv.org/abs/1708.02709)
 
 ## Miscellaneous (To be categorized)
+
+#### 2019
 
 Parameter-Efficient Transfer Learning for NLP -- [Summary](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62), [Paper](https://arxiv.org/abs/1902.00751)
 
