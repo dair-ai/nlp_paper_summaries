@@ -25,7 +25,6 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 | Detecting Linguistic Characteristics of Alzheimer’s Dementia by Interpreting Neural Models | [dair.ai](https://medium.com/dair-ai/using-deep-learning-to-detect-linguistic-cues-of-alzheimers-patients-a606693e54f9) | [Paper](https://www.aclweb.org/anthology/N18-2110/) |
 
 
----
 ## Computational Social Science and Social Media
 
 #### 2017
