@@ -34,7 +34,7 @@ Towards a Human-like Open-Domain Chatbot — [Summary](https://ai.googleblog.com
 
 #### 2019
 
-What makes a good conversation? How controllable attributes affect human judgements - [Summary1](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html), [Summary2](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#what-makes-a-good-conversation-how-controllable-attributes-affect-human-judgments-chat) [Paper](https://www.aclweb.org/anthology/N19-1170/)
+What makes a good conversation? How controllable attributes affect human judgements - [Summary1](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html), [Summary2](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#what-makes-a-good-conversation-how-controllable-attributes-affect-human-judgments-chat), [Paper](https://www.aclweb.org/anthology/N19-1170/)
 
 Learning from Dialogue after Deployment: Feed Yourself, Chatbot! - [Summary](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#learning-from-dialogue-after-deployment-feed-yourself-chatbot-chat), [Paper](https://www.aclweb.org/anthology/P19-1358)
 
