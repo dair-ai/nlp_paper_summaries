@@ -14,7 +14,22 @@ Note that we currently provide the source of the where the summary originated fr
 
 If you are facing any issues submitting your PR, just send me an email at ellfae@gmail.com or [DM me on Twitter](https://twitter.com/omarsar0).
 
----
+## Table of Contents
+- [Cognitive Modeling and Psycholinguistics](https://github.com/dair-ai/nlp_paper_summaries#cognitive-modeling-and-psycholinguistics)
+- [Computational Social Science and Social Media](https://github.com/dair-ai/nlp_paper_summaries#computational-social-science-and-social-media)
+- [Dialogue and Interactive Systems](https://github.com/dair-ai/nlp_paper_summaries#dialogue-and-interactive-systems) 
+- [Ethics and NLP](https://github.com/dair-ai/nlp_paper_summaries#ethics-and-nlp)
+- [Generation](https://github.com/dair-ai/nlp_paper_summaries#generation)
+- [Interpretability and Analysis of Models for NLP](https://github.com/dair-ai/nlp_paper_summaries#interpretability-and-analysis-of-models-for-nlp)
+- [Language Modeling](https://github.com/dair-ai/nlp_paper_summaries#language-modeling)
+- [Machine Translation](https://github.com/dair-ai/nlp_paper_summaries#machine-translation)
+- [Multi-Task Learning](https://github.com/dair-ai/nlp_paper_summaries#multi-task-learning)
+- [Resources and Evaluation](https://github.com/dair-ai/nlp_paper_summaries#resources-and-evaluation)
+- [Sentiment Analysis, Stylistic Analysis, and Argument Mining](https://github.com/dair-ai/nlp_paper_summaries#sentiment-analysis-stylistic-analysis-and-argument-mining)
+- [Summarization](https://github.com/dair-ai/nlp_paper_summaries#summarization)
+- [Overviews / Surveys / Highlights](https://github.com/dair-ai/nlp_paper_summaries#overviews--surveys--highlights)
+- [Miscellaneous (To be categorized)](https://github.com/dair-ai/nlp_paper_summaries#miscellaneous-to-be-categorized)
+
 
 ## Cognitive Modeling and Psycholinguistics
 
