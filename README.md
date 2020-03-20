@@ -249,6 +249,7 @@ Revealing the Dark Secrets of BERT | [Text Machine Blog](https://text-machine-la
 | Title | Summary | Paper Source |
 | ----- | ------- | ----- |
 | Reformer: The Efficient Transformer | [Pragmatic ML](https://www.pragmatic.ml/reformer-deep-dive/) | [Paper](https://arxiv.org/abs/2001.04451)
+| ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [Google AI Blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html) | [Paper](https://openreview.net/pdf?id=r1xMH1BtvB) | 
 
 #### 2019
 
