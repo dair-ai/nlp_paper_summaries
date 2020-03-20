@@ -12,7 +12,7 @@ For now, I have adopted a few tracks from [ACL](https://acl2020.org/calls/papers
 
 Note that we currently provide the source of the where the summary originated from. We are working with a few authors to migrate the content directly to this repo so that summaries are centralized and easily accessible. This also simplifies the way others can contribute to this project. When a summary has been fully migrated to this repo, we will tag the summary as "GitHub" under the "Summary" tab of the tables below to identify them easily. 
 
-We are including an extra __TL;DR__ section wherver applicable. This is not meant as a full-fledged summary but rather covers the key points of each paper and serves as a refresher for those who have previously encountered the paper.
+We are including an extra __TL;DR__ section wherever applicable. This is not meant as a full-fledged summary but rather covers the key points of each paper and serves as a refresher for those who have previously encountered the paper.
 
 If you are facing any issues submitting your PR, just send me an email at ellfae@gmail.com or [DM me on Twitter](https://twitter.com/omarsar0).
 
