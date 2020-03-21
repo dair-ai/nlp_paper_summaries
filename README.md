@@ -331,7 +331,7 @@ Revealing the Dark Secrets of BERT | [Text Machine Blog](https://text-machine-la
 
 | Title | Paper Source | TL;DR |
 | ----- | ------- | ----- |
-| One Model To Learn Them All | | [Paper](https://arxiv.org/pdf/1706.05137.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#one-model-to-learn-them-all-s2s) 
+| One Model To Learn Them All | [Paper](https://arxiv.org/pdf/1706.05137.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#one-model-to-learn-them-all-s2s) 
 
 ## Resources and Evaluation
 
