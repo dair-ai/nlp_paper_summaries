@@ -8,6 +8,6 @@ During the pre-training of the language model, a neural retrieval module is appl
 
 ![img txt](https://github.com/dair-ai/nlp_paper_summaries/blob/master/images/realm.png)
 
-(Guu et al., 2020)
+_(Guu et al., 2020)_
 
 Open-QA was used for fine-tuning the model where the objective is to produce the answer in the form of a string. REALM outperforms all other previous methods while providing some interpretability due to the way the model is exposed to external knowledge.
