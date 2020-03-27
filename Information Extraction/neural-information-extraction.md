@@ -1,0 +1,3 @@
+## Neural Information Extraction From Natural Language Text
+
+If you are interested in the topic of neural-based information extraction approaches, Pankaj Gupta publicly released his Ph.D. thesis titled [“Neural Information Extraction From Natural Language Text”](https://www.researchgate.net/publication/336739252_PhD_Thesis_Neural_Information_Extraction_From_Natural_Language_Text). The main discussion is about how to efficiently extract the semantic relationships from natural language text using neural-based approaches. Such research effort aims to contribute to building structured knowledge bases, that can be used in a series of downstream NLP applications such as web search, question-answering, among other tasks, including those discussed in the previous work.
