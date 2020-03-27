@@ -22,6 +22,8 @@ We are including an extra __TL;DR__ section wherever applicable. This is not mea
 
 This [video 📹](https://youtu.be/sgh7jJjQjOo) demonstrates how to add an entry to any of the folders in this repository.
 
+This next [video 📹](https://youtu.be/OGCm7RyrZzk) demonstrates how to add a summary or TL;DR in the form of a pull request to the repo. 
+
 If you are facing any issues submitting your PR, just send me an email at ellfae@gmail.com or [DM me on Twitter](https://twitter.com/omarsar0).
 
 ## Table of Contents
