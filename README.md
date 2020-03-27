@@ -6,7 +6,7 @@ This repository contains a list of NLP paper summaries intended to make NLP tech
 
 If you have blogged about an NLP paper or technique or find an interesting read out there, I encourage you to share with the wider community. To add your blog posts, summaries, or TL;DRs to this list just hit on the edit button in the corresponding README.md file inside any of the folders above. You can then add your entry by modifying the readme file and submitting a PR which will be reviewed before going live.
 
-Alternatively, we can work on transferring or writing your summaries or TL;DRs to this repo itself so as to make them more accessible. To achieve this go inside any of the folders and you will find a "Contribute ✍️" note that is essentially a request for your contribution.
+Alternatively, we can work on transferring or writing your summaries or TL;DRs to this repo itself so as to make them more accessible. To achieve this go inside any of the folders and you will find a "Contribute ✍️" link that is essentially a request for your contribution. Click on that link and it will take you directly to a window where you can start writing your summary or TL;DR. Once you are done submitting the PR, then we will evaluate it and add the corresponding entry. 
 
 If you would like to contribute by blogging about an NLP paper/technique, you can check out our suggestion/guidance at this [issue](https://github.com/dair-ai/dair-ai.github.io/issues/23).
 
