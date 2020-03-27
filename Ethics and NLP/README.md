@@ -1,0 +1,14 @@
+## Ethics and NLP
+
+#### 2019
+
+| Title | Summary | Paper Source |
+| ----- | ------- | ----- |
+| Defending Against Neural Fake News | [Ai2 Blog](https://medium.com/ai2-blog/counteracting-neural-disinformation-with-grover-6cf6690d463b) | [Paper](https://arxiv.org/abs/1905.12616)
+
+#### 2018
+
+| Title | Summary | Paper Source |
+| ----- | ------- | ----- |
+| Troubling Trends in Machine Learning Scholarship | [dair.ai](https://medium.com/dair-ai/an-overview-of-troubling-trends-in-machine-learning-scholarship-582df3caa518) | [Paper](https://arxiv.org/abs/1807.03341)
+| Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems | [dair.ai](https://medium.com/dair-ai/examining-gender-and-race-bias-in-sentiment-analysis-systems-b04b269a653) | [Paper](https://www.aclweb.org/anthology/S18-2005/)
