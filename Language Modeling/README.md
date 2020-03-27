@@ -6,7 +6,7 @@
 | ----- | ------- | ----- | ---- |
 | Turing-NLG: A 17-billion-parameter language model by Microsoft | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/turing-nlg.md) | [Source](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
 | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) | [Paper](https://arxiv.org/abs/1910.10683) | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/t5-text-to-text-transformer.md)
-| Reformer: The Efficient Transformer | [Pragmatic ML](https://www.pragmatic.ml/reformer-deep-dive/) | [Paper](https://arxiv.org/abs/2001.04451) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
+| Reformer: The Efficient Transformer | [Pragmatic ML](https://www.pragmatic.ml/reformer-deep-dive/) | [Paper](https://arxiv.org/abs/2001.04451) | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/reformer.md)
 | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [Google AI Blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html) | [Paper](https://openreview.net/pdf?id=r1xMH1BtvB) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
 
 #### 2019
