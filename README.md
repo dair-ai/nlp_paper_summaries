@@ -386,6 +386,12 @@ Revealing the Dark Secrets of BERT | [Text Machine Blog](https://text-machine-la
 
 ## Overviews / Surveys / Highlights
 
+#### 2020
+| Title | Summary | Paper Source |
+| ----- | ------- | ---------|
+| Transformers are Graph Neural Networks | [Chaitanya Joshi](https://graphdeeplearning.github.io/post/transformers-are-gnns/)| - | 
+| NLP Research Highlights — Issue #1 | [dair.ai](https://dair.ai/NLP_Research_Highlights_-_Issue_-1/) | - |
+
 #### 2019
 
 | Title | Summary | Paper Source |
