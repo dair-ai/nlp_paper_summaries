@@ -6,4 +6,6 @@ This work proposes that most NLP tasks can be formulated in a text-to-text forma
 
 This work proposes a unified approach that can allow ease of analysis of transfer learning for NLP approaches. This has been a challenge as current methods have different objectives and training procedures and are difficult to compare. T5 allows experimentation of different datasets, tasks, objectives for better understanding the limits, efficiency, and effectiveness of transfer learning for NLP models and how they scale in terms of data and modeling.
 
+![img txt](https://github.com/dair-ai/nlp_paper_summaries/blob/master/images/t5.png)
+
 In the future, authors aim to build language-agnostic models, cheaper models that achieve stronger performance, improved knowledge extraction through smarter and efficient pretraining tasks, among other strategies.
