@@ -20,6 +20,8 @@ Note that we currently provide the source of where the summary originated from. 
 
 We are including an extra __TL;DR__ section wherever applicable. This is not meant as a full-fledged summary but rather covers the key points of each paper and serves as a refresher for those who have previously encountered the paper or want to get a quick idea of the concepts being discussed.
 
+This [video 📹](https://youtu.be/sgh7jJjQjOo) demonstrates how to add an entry to any of the folders in this repository.
+
 If you are facing any issues submitting your PR, just send me an email at ellfae@gmail.com or [DM me on Twitter](https://twitter.com/omarsar0).
 
 ## Table of Contents
