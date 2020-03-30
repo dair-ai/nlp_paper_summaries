@@ -3,6 +3,8 @@ This repository contains a list of NLP paper summaries intended to make NLP tech
 
 Work in progress!
 
+Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-d2srv503-bQ01ZPLC4t4OoolEN9saSg) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+
 ## How to contribute
 [![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/0)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/0)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/1)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/1)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/2)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/2)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/3)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/3)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/4)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/4)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/5)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/5)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/6)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/6)[![](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/images/7)](https://sourcerer.io/fame/omarsar/omarsar/nlp_paper_summaries/links/7)
 
