@@ -1,3 +1,5 @@
 ## Semantics: Sentence Level
 
-[Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Semantics:%20Sentence%20Level) your paper summary or TL;DR!
+| Title | Summary | Paper Source |
+| ----- | ------- | ----- |
+| Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks | [Medium](https://medium.com/analytics-vidhya/tl-dr-sentencebert-8dec326daf4e) | [Paper](https://arxiv.org/abs/1908.10084) |
