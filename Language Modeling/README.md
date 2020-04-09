@@ -21,7 +21,7 @@
 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | [dair.ai](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b) | [Paper](https://arxiv.org/abs/1906.08237)| [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
 | Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context | [dair.ai](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13) | [Paper](https://arxiv.org/abs/1901.02860) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
 | Parameter-Efficient Transfer Learning for NLP | [dair.ai](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62) | [Paper](https://arxiv.org/abs/1902.00751) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
-| DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter | [Medium](https://medium.com/analytics-vidhya/tl-dr-distillbert-8fb0f9e3c03d) | [Paper](https://arxiv.org/abs/1910.01108) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
+| DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter | [dair.ai](https://dair.ai/TL;DR_DistillBERT/) | [Paper](https://arxiv.org/abs/1910.01108) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
 
 
 #### 2018
