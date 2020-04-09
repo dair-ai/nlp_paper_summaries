@@ -4,4 +4,4 @@
 
 | Title | Summary | Paper Source |
 | ----- | ------- | ----- |
-| Simple Semantic Sentence Search | [Medium](https://medium.com/analytics-vidhya/simple-sentence-similarity-search-with-sentencebert-191ba74a0637) | [Paper](https://arxiv.org/abs/1908.10084) |
+| Simple Semantic Sentence Search | [dair.ai](https://dair.ai/Simple_Sentence_Similarity_Search_with_SentenceBERT/) | [Paper](https://arxiv.org/abs/1908.10084) | -
