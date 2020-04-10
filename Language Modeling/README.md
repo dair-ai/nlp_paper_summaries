@@ -29,6 +29,7 @@
 | Title | Summary | Paper Source | TL;DR |
 | ----- | ------- | ----- | ---- |
 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding| [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) | [Paper](https://arxiv.org/pdf/1810.04805.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-s2s)
+| Language Models are Unsupervised Multitask Learners| [Jay Alammar](http://jalammar.github.io/illustrated-gpt2/) | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
 
 #### 2017
 
