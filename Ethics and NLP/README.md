@@ -25,4 +25,4 @@
 
 | Title | Summary | Paper Source | TL;DR |
 | ----- | ------- | ----- | ---- |
-| Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings | [dair.ai](https://medium.com/dair-ai/an-overview-of-troubling-trends-in-machine-learning-scholarship-582df3caa518) | [Paper](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Ethics%20and%20NLP)
+| Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Ethics%20and%20NLP) | [Paper](https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Ethics%20and%20NLP)
