@@ -35,4 +35,5 @@
 | Title |  Summary | Paper Source | TL;DR |
 | ----- | ------- | ----- | ---- |
 | Adversarial Generation of Natural Language| [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |[Paper](https://arxiv.org/pdf/1705.10929.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#adversarial-generation-of-natural-language-n-c)
+| Attention Is All You Need| [Jay Alammar](http://jalammar.github.io/illustrated-transformer/) |[Paper](https://arxiv.org/pdf/1706.03762.pdf) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
 | Training RNNs as Fast as CNNs| [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) | [Paper](https://arxiv.org/pdf/1709.02755.pdf)  | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#training-rnns-as-fast-as-cnns-n-c)
