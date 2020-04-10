@@ -10,4 +10,4 @@
 
 | Title | Summary | Paper Source | TL;DR |
 | ----- | ------- | ----- | ---- |
-| One Model To Learn Them All | https://github.com/dair-ai/nlp_paper_summaries/new/master/Multi-Task%20Learning | [Paper](https://arxiv.org/pdf/1706.05137.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#one-model-to-learn-them-all-s2s)
+| One Model To Learn Them All | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Multi-Task%20Learning) | [Paper](https://arxiv.org/pdf/1706.05137.pdf) | [Richard Csaky](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#one-model-to-learn-them-all-s2s)
