@@ -46,6 +46,7 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [NLP Applications](https://github.com/dair-ai/nlp_paper_summaries/tree/master/NLP%20Applications)
 - [Overviews, Surveys, and Highlights](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Overviews%2C%20Surveys%2C%20and%20Highlights)
 - [Phonology, Morphology and Word Segmentation](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Phonology%2C%20Morphology%20and%20Word%20Segmentation)
+- [Privacy and NLP](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Privacy%20and%20NLP)
 - [Question Answering](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Question%20Answering)
 - [Resources and Evaluation	](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Resources%20and%20Evaluation)
 - [Semantics: Lexical](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Semantics:%20Lexical)
