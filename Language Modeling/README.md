@@ -22,7 +22,7 @@
 | Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context | [dair.ai](https://medium.com/dair-ai/a-light-introduction-to-transformer-xl-be5737feb13) | [Paper](https://arxiv.org/abs/1901.02860) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
 | Parameter-Efficient Transfer Learning for NLP | [dair.ai](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62) | [Paper](https://arxiv.org/abs/1902.00751) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
 | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter | [dair.ai](https://dair.ai/TL;DR_DistillBERT/) | [Paper](https://arxiv.org/abs/1910.01108) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
-| TinyBERT: Distilling BERT for Natural Language Understanding | Currently posted on [Medium](https://medium.com/swlh/tinybert-size-does-matter-but-how-you-train-it-can-be-more-important-a5834831fa7d) but could be re-published on dair.ai with permission |[Paper](https://arxiv.org/abs/1909.10351) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling) |
+| TinyBERT: Distilling BERT for Natural Language Understanding | Currently posted on [Medium](https://medium.com/swlh/tinybert-size-does-matter-but-how-you-train-it-can-be-more-important-a5834831fa7d) but could be re-published on dair.ai with permission |[Paper](https://arxiv.org/abs/1909.10351) | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/tiny-bert.md) |
 
 
 #### 2018
