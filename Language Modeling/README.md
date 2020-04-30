@@ -9,6 +9,7 @@
 | Reformer: The Efficient Transformer | [Pragmatic ML](https://www.pragmatic.ml/reformer-deep-dive/) | [Paper](https://arxiv.org/abs/2001.04451) | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/reformer.md)
 | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [Google AI Blog](https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html) | [Paper](https://openreview.net/pdf?id=r1xMH1BtvB) | [GitHub](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/electra.md)
 | REALM: Retrieval-Augmented Language Model Pre-Training | - | [Paper](https://kentonl.com/pub/gltpc.2020.pdf) | -
+| Longformer: The Long-Document Transformer | [Medium](https://medium.com/@viktor2karlsson/longformer-what-bert-should-have-been-78f4cd595be9?source=friends_link&sk=706c3dc289d5a7ee745a54f46225e90d) | [Paper](https://arxiv.org/abs/2004.05150) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Language%20Modeling)
 
 #### 2019
 
