@@ -1,5 +1,11 @@
 ## Summarization
 
+#### 2020
+
+| Title | Summary | Paper Source | TL;DR |
+| ----- | ------- | ----- | ---- |
+| BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [Summary](https://medium.com/dair-ai/bart-are-all-pretraining-techniques-created-equal-e869a490042e) | [Paper](https://arxiv.org/pdf/1910.13461.pdf) | [Contribute ✍️](https://github.com/dair-ai/nlp_paper_summaries/new/master/Summarization)
+
 #### 2017
 
 | Title | Summary | Paper Source | TL;DR |
