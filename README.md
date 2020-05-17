@@ -42,7 +42,7 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Language Modeling](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Language%20Modeling)
 - [Machine Learning for NLP](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Learning%20for%20NLP)
 - [Machine Translation](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Translation)
-- [Model Compression](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Model%20Compression))
+- [Model Compression](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Model%20Compression)
 - [Multi-Task Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Multi-Task%20Learning)
 - [NLP Applications](https://github.com/dair-ai/nlp_paper_summaries/tree/master/NLP%20Applications)
 - [Overviews, Surveys, and Highlights](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Overviews%2C%20Surveys%2C%20and%20Highlights)
