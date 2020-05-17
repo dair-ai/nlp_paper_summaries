@@ -42,6 +42,7 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Language Modeling](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Language%20Modeling)
 - [Machine Learning for NLP](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Learning%20for%20NLP)
 - [Machine Translation](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Machine%20Translation)
+- [Model Compression](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Model%20Compression))
 - [Multi-Task Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Multi-Task%20Learning)
 - [NLP Applications](https://github.com/dair-ai/nlp_paper_summaries/tree/master/NLP%20Applications)
 - [Overviews, Surveys, and Highlights](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Overviews%2C%20Surveys%2C%20and%20Highlights)
@@ -57,3 +58,4 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Summarization](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Summarization)
 - [Syntax: Tagging, Chunking and Parsing](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Syntax:%20Tagging%2C%20Chunking%20and%20Parsing)
 - [Theory and Formalism in NLP (Linguistic and Mathematical)](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Theory%20and%20Formalism%20in%20NLP%20(Linguistic%20and%20Mathematical))
+- [Unsupervised Representation Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Unsupervised%20Representation%20Learning))
