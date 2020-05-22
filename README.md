@@ -3,7 +3,9 @@ This repository contains a list of NLP paper summaries intended to make NLP tech
 
 Work in progress!
 
-Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-d2srv503-bQ01ZPLC4t4OoolEN9saSg) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+
+**Slack channel:** #nlp_paper_summaries
 
 ## How to contribute
 
