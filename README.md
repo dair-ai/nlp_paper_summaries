@@ -60,3 +60,4 @@ If you are facing any issues submitting your PR, just send me an email at ellfae
 - [Syntax: Tagging, Chunking and Parsing](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Syntax:%20Tagging%2C%20Chunking%20and%20Parsing)
 - [Theory and Formalism in NLP (Linguistic and Mathematical)](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Theory%20and%20Formalism%20in%20NLP%20(Linguistic%20and%20Mathematical))
 - [Unsupervised Representation Learning](https://github.com/dair-ai/nlp_paper_summaries/tree/master/Unsupervised%20Representation%20Learning)
+1
