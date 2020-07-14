@@ -5,7 +5,7 @@ Work in progress!
 
 Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
 
-**Slack channel:** #nlp_paper_summaries
+**Slack channel:** #paper_summaries
 
 ## How to contribute
 
